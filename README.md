@@ -45,5 +45,5 @@ This is a backend web application developed as part of the Backend Engineer Inte
 ### 1. Clone the Repository
 
 ```bash
-[git clone https://github.com/your-username/frejun-backend-intern-project.git](https://github.com/godwinisimpasanni/frejun-backend-intern-project.git)
+git clone https://github.com/godwinisimpasanni/frejun-backend-intern-project
 cd frejun-backend-intern-project
